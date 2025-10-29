@@ -24,8 +24,10 @@
 Dans le `main()` déjà fourni :
 
 1) Créez un tableau dynamique d'objets permettant de contenir des `Personne`  
- Une `Personne` possède les attributs nom, prenom, rue et localite ainsi qu'un npa (numéro postal qui lui sera un entier).
+ Une `Personne` possède les attributs nom, prenom, localite ainsi qu'un npa (numéro postal qui lui sera un entier).
 2) Créez cette classe `Personne` et faites que toutes ses informations puissent être consultées une fois l'objet créé, mais que plus rien ne puisse être modifié.
 3) Ajoutez 2-3 personnes dans cette structure dynamique.
 4) Parcourez-là avec une boucle `for each` et affichez le nom de tous les objets présents dans cette structure
-5) Faites un push/commit.
+5) Faites un push/commit nommé "1".
+6) Faites le nécessaire pour trier votre collection par npa, puis par nom.
+7) Faites un nouveau push/commit nommé "2".
